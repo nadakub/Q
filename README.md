@@ -22,4 +22,4 @@ Aplicatie statica HTML/CSS/JavaScript pentru cautarea intrebarilor de licenta.
 
 ## Rulare locala
 
-Deschide direct `index.html` in browser.
+Deschide direct `index.html` in browser....
